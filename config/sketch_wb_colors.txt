@@ -1,0 +1,30 @@
+From: https://github.com/Flowwie/flowwie-freecad/issues/14#issuecomment-1477612181
+
+#646464		Making line color											Working Colors > Create Line
+#0000ff		coordinate text color 										Working Colors > Coordinate Text
+#ffffff		cursor crosshair color										Working Colors > Cursor Crosshair
+
+
+#86f963		Fully constrained edit edge color							Geometric Element Colors > Constrained - Edge
+#ff9580		Fully constrained edit vertex color 						Geometric Element Colors > Constrained - Vertex
+#8fa9fd		Fully constrained edit construction edge color 				Geometric Element Colors > Constrained - Construction Geometry
+#dedec8		Fully constrained edit internal alignment edge color		Geometric Element Colors > Constrained - Internal Alignment Edge
+#cd3273		External geometry											Geometric Element Colors > Constrained - External Geometry
+#00c800		Fully constrained geometry									Geometric Element Colors > Constrained - Fully Constrained Sketch
+#ff6d00		Invalid Sketch												Geometric Element Colors > Constrained - Invalid Sketch
+
+#00966e		Edit edge color												Geometric Element Colors > Unconstrained - Edge
+#aa0000		Edit vertex color 											Geometric Element Colors > Unconstrained - Vertex
+#2240a0		Construction geometry										Geometric Element Colors > Unconstrained - Construction Geometry
+#b2b27f		Internal alignment edge color								Geometric Element Colors > Unconstrained - Internal Alignment Edge
+
+
+#aa0000		Constraint color											Constraint Colors > Constraint Symbols
+#aa0000		Dimensional constarint color								Constraint Colors > Dimensional Constraint
+#2240a0		Reference constraint color 									Constraint Colors > Reference Contraint
+#cd3273		Expression dependent constraint color						Constraint Colors > Expression Dependent Constraint
+#7f7f7f		Deactivated constraint color 								Constraint Colors > Deactive Constraint
+
+
+#0f2873		Default Edge Color											Colors Outside Sketcher > Edge
+#0f2873		Default vertex color										Colors Outside Sketcher > Vertex
